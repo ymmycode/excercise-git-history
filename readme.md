@@ -1,3 +1,3 @@
 # ini adalah Readme
 
-featur b
+feat c
